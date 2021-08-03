@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
 
     bool thisIsAnotherBooleanValue = false;
     bool testing = true;
+    float thisIsAnotherTestValue = 6f;
 
     public string playerName;
 
