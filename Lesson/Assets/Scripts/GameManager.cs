@@ -12,6 +12,10 @@ public class GameManager : MonoBehaviour
     bool thisIsAnotherBooleanValue = false;
     bool testing = true;
 
+
+    float test = 93898f;
+
+
     public string playerName;
 
     void Start()
