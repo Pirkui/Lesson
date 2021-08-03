@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] TMP_InputField inputField;
 
     bool thisIsAnotherBooleanValue = false;
+    bool testing = true;
 
     public string playerName;
 
